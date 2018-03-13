@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mad Libs</string>
+    <string-array name="listArray">
+        <item>Headings</item>
+        <item>Headings and Details</item>
+        <item>All Data</item>
+    </string-array>
+</resources>
